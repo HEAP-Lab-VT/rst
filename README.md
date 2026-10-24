@@ -37,7 +37,7 @@ See the Zenodo archive's `README.md` for setup and experiment instructions.
   month=apr,
   year=2026,
   publisher={Zenodo},
-  doi{10.5281/zenodo.19501484},
+  doi={10.5281/zenodo.19501484},
   url={https://doi.org/10.5281/zenodo.19501484},
 }
 ```
