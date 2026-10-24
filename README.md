@@ -10,7 +10,7 @@ June 2026.* https://doi.org/10.1109/ISCA66397.2026.00107
 
 ```
 @INPROCEEDINGS{isca2026_rst,
-  author={Chu, Nolan and Lee, Yoon and Panwar, Gagandeep and Jian, Xun},
+  author. ={Chu, Nolan and Lee, Yoon and Panwar, Gagandeep and Jian, Xun},
   booktitle={2026 ACM/IEEE 53rd Annual International Symposium on Computer Architecture (ISCA)}, 
   title={Random-Access Hardware Sequence Compression}, 
   year={2026},
@@ -31,19 +31,14 @@ The complete artifact (source, RTL, memory dumps, QEMU VM image, and synthesis e
 See the Zenodo archive's `README.md` for setup and experiment instructions.
 
 ```
-@software{chu_2026_19501484,
-  author       = {Chu, Nolan and
-                  Lee, Yoon and
-                  Panwar, Gagandeep and
-                  Jian, Xun},
-  title        = {RST: Random-Access Hardware Sequence Compression —
-                   Artifact
-                  },
-  month        = apr,
-  year         = 2026,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.19501484},
-  url          = {https://doi.org/10.5281/zenodo.19501484},
+@software{isca2026_rst_artifact,
+  author={Chu, Nolan and Lee, Yoon and Panwar, Gagandeep and Jian, Xun},
+  title={RST: Random-Access Hardware Sequence Compression — Artifact},
+  month=apr,
+  year=2026,
+  publisher={Zenodo},
+  doi{10.5281/zenodo.19501484},
+  url={https://doi.org/10.5281/zenodo.19501484},
 }
 ```
 
