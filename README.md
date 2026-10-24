@@ -30,6 +30,23 @@ The complete artifact (source, RTL, memory dumps, QEMU VM image, and synthesis e
 
 See the Zenodo archive's `README.md` for setup and experiment instructions.
 
+```
+@software{chu_2026_19501484,
+  author       = {Chu, Nolan and
+                  Lee, Yoon and
+                  Panwar, Gagandeep and
+                  Jian, Xun},
+  title        = {RST: Random-Access Hardware Sequence Compression —
+                   Artifact
+                  },
+  month        = apr,
+  year         = 2026,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.19501484},
+  url          = {https://doi.org/10.5281/zenodo.19501484},
+}
+```
+
 ## License
 
 BSD 3-Clause Clear. See [LICENSE](LICENSE) for details.
